@@ -1,4 +1,9 @@
-## Hi there 👋
+
+# Welcome to my GitHub
+
+### Here is a real life photo of me 
+![funny](https://github.com/hack3rSWE/hack3rSWE/assets/107173906/0daed65c-fb9c-4061-a1ac-319149fd22a3)
+
 
 <!--
 **hack3rSWE/hack3rSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🌱 I’m currently learning React.js, Java Spring 6, and Ethical Hacking
+![giphy](https://github.com/hack3rSWE/hack3rSWE/assets/107173906/5f24838e-f1b0-4e18-aecd-659630ef63d8)
