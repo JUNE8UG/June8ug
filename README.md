@@ -19,5 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌱 I’m currently learning React.js, Java Spring 6, and Ethical Hacking
+### 🌱 I’m currently learning Full Stack Web Devlopment
+- 🔭 I’m currently working on My Portfolio Website
+- 🌱 I’m currently learning various JS Frameworks to aid in development
+- 👯 I’m looking to collaborate on just about any open source project
+  
 ![giphy](https://github.com/hack3rSWE/hack3rSWE/assets/107173906/5f24838e-f1b0-4e18-aecd-659630ef63d8)
