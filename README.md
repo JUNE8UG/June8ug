@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌱 I’m currently learning Web Penetration Testing and Full Stack Web Development
-- 🔭 I’m currently working on the PJWT from TCM Security
+### 🌱 I’m currently Building My Blue Team Skills and Creating Software 
+- 🔭 I’m currently working on the PJSA from TCM Security
 - 🌱 I’m currently learning various JS Frameworks to aid in development
 - 👯 I’m looking to collaborate on just about any open source project
   
