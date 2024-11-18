@@ -1,8 +1,7 @@
 
 # Welcome to my GitHub
 
-### Here is a real life photo of me 
-![funny](https://github.com/hack3rSWE/hack3rSWE/assets/107173906/0daed65c-fb9c-4061-a1ac-319149fd22a3)
+![giphy](https://github.com/hack3rSWE/hack3rSWE/assets/107173906/5f24838e-f1b0-4e18-aecd-659630ef63d8)
 
 
 <!--
@@ -23,5 +22,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the PJWT from TCM Security
 - 🌱 I’m currently learning various JS Frameworks to aid in development
 - 👯 I’m looking to collaborate on just about any open source project
-  
-![giphy](https://github.com/hack3rSWE/hack3rSWE/assets/107173906/5f24838e-f1b0-4e18-aecd-659630ef63d8)
