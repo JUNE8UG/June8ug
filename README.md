@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🌱 I’m currently Building My Red Team Skills and Writing lots of Code. 
-- 🔭 I’m currently working on the PJWT from TCM Security
-- 🌱 I’m currently learning various JS Frameworks to aid in development
-- 👯 I’m looking to collaborate on just about any open source project
+- 🔭 I’m currently working on the preparing to take the OSCP in 2025, and some other hands on security certs.
+- 🌱 I've been mastering various JS Frameworks to aid in development
+- 👯 I’m looking to learn more about Web Security and Web Pen Testing
